@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Elements">
+      <UniqueIdentifier>{18f2994e-0846-4879-924a-8f6c051b6d8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Models">
+      <UniqueIdentifier>{712e3a7c-2230-4b3d-9f6a-69285fdde642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Core">
+      <UniqueIdentifier>{abeb7a7e-12e3-4276-9d6c-3db495e4bf5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Cameras">
+      <UniqueIdentifier>{e2b8728b-a32c-40e8-84f4-d43aeceb1d64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Utilities">
+      <UniqueIdentifier>{93cea32b-f2da-4fcb-b3cd-922bab822f53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Elements">
+      <UniqueIdentifier>{2f0d393f-353f-492b-8fba-3c8fa7795a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Models">
+      <UniqueIdentifier>{6277ac78-f6fa-42b7-88ef-ca3e970267f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Core">
+      <UniqueIdentifier>{a9f1218f-db15-4c2b-9e25-2e496c599370}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Cameras">
+      <UniqueIdentifier>{4d3bb268-2ba2-4b70-a59e-ad844c86465e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Utilities">
+      <UniqueIdentifier>{9b1d1298-4429-4f45-8ba0-0b176628b188}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Archivos de origen\Cameras</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Archivos de origen\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de origen\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Archivos de origen\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelLoader.cpp">
+      <Filter>Archivos de origen\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="programa_p2.cpp">
+      <Filter>Archivos de origen\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Archivos de origen\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Solid.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Archivos de origen\Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Archivos de origen\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>Archivos de origen\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Proyectil.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="ProyectilEnemigo.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="ProyectilJugador.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="NaveEnemiga.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Archivos de origen\Elements</Filter>
+    </ClCompile>
+    <ClCompile Include="MainScene.cpp">
+      <Filter>Archivos de origen\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScene.cpp">
+      <Filter>Archivos de origen\Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Solid.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Archivos de encabezado\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelLoader.h">
+      <Filter>Archivos de encabezado\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Archivos de encabezado\Models</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Archivos de encabezado\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Archivos de encabezado\Cameras</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Archivos de encabezado\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Archivos de encabezado\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>Archivos de encabezado\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Proyectil.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="ProyectilEnemigo.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="ProyectilJugador.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="NaveEnemiga.h">
+      <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScene.h">
+      <Filter>Archivos de encabezado\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScene.h">
+      <Filter>Archivos de encabezado\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

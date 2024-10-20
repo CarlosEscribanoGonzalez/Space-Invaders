@@ -1,0 +1,105 @@
+﻿  Camera.cpp
+  Color.cpp
+  Game.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.h(29,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Game.cpp(47,29): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Game.cpp(48,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  GameOverScene.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\GameOverScene.cpp(28,54): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+  MainScene.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.h(29,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.cpp(51,33): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.cpp(64,31): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.cpp(68,40): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.cpp(227,31): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.cpp(251,167): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.cpp(290,30): warning C4305: '=': truncamiento de 'double' a 'float'
+  Model.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Model.cpp(30,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Model.cpp(31,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Model.cpp(32,39): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  ModelLoader.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ModelLoader.cpp(115,14): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ModelLoader.cpp(114,14): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ModelLoader.cpp(113,14): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+  NaveEnemiga.cpp
+  Player.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Player.cpp(9,83): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\Player.cpp(13,82): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+  programa_p2.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\MainScene.h(29,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\programa_p2.cpp(16,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\programa_p2.cpp(17,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\programa_p2.cpp(18,26): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Proyectil.cpp
+  ProyectilEnemigo.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ProyectilEnemigo.cpp(7,20): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ProyectilEnemigo.cpp(10,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ProyectilEnemigo.cpp(11,72): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ProyectilEnemigo.cpp(11,47): warning C4244: 'argumento': conversión de 'double' a 'S'; posible pérdida de datos
+          with
+          [
+              S=float
+          ]
+  ProyectilJugador.cpp
+C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\programa_p2\ProyectilJugador.cpp(6,52): warning C4305: 'argumento': truncamiento de 'double' a 'S'
+          with
+          [
+              S=float
+          ]
+  Scene.cpp
+  Solid.cpp
+  Text.cpp
+  Triangle.cpp
+  Vector2D.cpp
+  Vector3D.cpp
+  Generando código...
+  programa_p2.vcxproj -> C:\Users\carlo\Desktop\Uni\Segundo año\Primer semestre\Programación Avanzada\Practica3Final\programa_p2\x64\Debug\programa_p2.exe
